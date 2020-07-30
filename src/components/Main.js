@@ -8,7 +8,7 @@ import WeatherSearch from "./WeatherSearch"
 import WeatherData from "./WeatherData"
 import Error from "./Error"
 
-const API_KEY = "659b6b32c0c2615b7c81b67bc41e5c1c"
+const API_KEY = "<api_key>"
 
 export default function Main() {
     const [weather, setWeather] = useState(null)
